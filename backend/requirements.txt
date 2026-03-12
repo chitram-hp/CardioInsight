@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-sqlalchemy
+pandas
+scikit-learn
+joblib
+gunicorn
+pytesseract
+Pillow
+pdf2image
+reportlab
